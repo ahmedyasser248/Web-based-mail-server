@@ -1,0 +1,7 @@
+In frontEnd file :
+you need to get node_modules file , I couldn't load it as it was to big
+Also
+1- install axios
+2- install vue
+3- install vuetify
+4- install sass-loader
